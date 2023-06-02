@@ -17,4 +17,4 @@ https://sunrise-sunset.org/api
 http://open-notify.org/Open-Notify-API/ISS-Location-Now/
 
 
-Note - The code runs every 20 seconds. You can change the duration of interval by changing the number of seconds in line 40. 
+Note - The code runs every 20 seconds. You can change the duration of interval by changing the number of seconds in the last line containing "time.sleep(TIME_IN_SECONDS)"
